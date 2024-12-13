@@ -27,7 +27,7 @@ Este repositorio central enlaza a los componentes individuales:
         Gestión de ventas e inventario.
         Funcionalidades específicas para hostelería (asignación de mesas).
         Generación de informes de ventas y caja.
-    Repositorio: TPV Escritorio - GitHub
+    Repositorio: [PuntoVentaCloud_Escritorio](https://github.com/TomiNavel/PuntoVentaCloud_Escritorio)
 
 2. API RESTful
 
@@ -36,7 +36,7 @@ Este repositorio central enlaza a los componentes individuales:
         Sincronización en tiempo real con la base de datos.
         Acceso seguro mediante autenticación JWT.
         Documentación con Swagger.
-    Repositorio: API RESTful - GitHub
+    Repositorio: [PuntoVentaCloud_Api](https://github.com/TomiNavel/PuntoVentaCloud_Api)
 
 3. Base de Datos
 
@@ -52,4 +52,4 @@ Este repositorio central enlaza a los componentes individuales:
     Características:
         Consulta remota de datos clave: ventas, cierres de caja y accesos.
         Interfaz moderna usando Jetpack Compose.
-    Repositorio: Aplicación Móvil Android - GitHub
+    Repositorio: [PuntoVentaCloud_Movil](https://github.com/TomiNavel/PuntoVentaCloud_Movil)
